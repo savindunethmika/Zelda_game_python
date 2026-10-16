@@ -33,7 +33,7 @@ Make sure you have **Python 3.11** installed on your system.
 
 1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/DevilSavi/Zelda_game_python git](https://github.com/DevilSavi/Zelda_game_python.git)
+    git clone [https://github.com/savindunethmika/Zelda_game_python git](https://github.com/savindunethmika/Zelda_game_python.git)
 
 2. Navigate to the project directory:
     ```bash
